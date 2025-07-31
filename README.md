@@ -32,5 +32,5 @@ Built with **HTML**, **CSS**, and **JavaScript**, the app features tab-based UI,
 
 ---
 
-## 📁 Project Structure
+
 
